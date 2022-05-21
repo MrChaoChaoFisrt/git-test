@@ -9,8 +9,6 @@ package com.chao;
 /**
  * 添加到临时区
  * 绿色的文件都是被git追踪到的
- *
- *
  */
 public class gitTest {
     public static void main(String[] args) {
